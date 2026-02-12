@@ -26,13 +26,13 @@ namespace pratik_1
         {
             string name=textBox1.Text;
             string surname=textBox2.Text;
-            string city=textBox3.Text;
+            string city=textBox3.Text;//burada butona basıldığında textboxlara girilen verileri değişkenlere atıyoruz
 
-            ogrenci1 ogr = new ogrenci1(name,surname,city);
+            ogrenci1 ogr = new ogrenci1(name,surname,city);//burada da ogrenci1 sınıfından bir nesne oluşturup constructor yardımıyla verileri atıyoruz
 
             label7.Text = ogr.Ad;
             label8.Text = ogr.soyad;
-            label9.Text = ogr.sehir;
+            label9.Text = ogr.sehir;//son olarak da label'lara atadığımız verileri yazdırıyoruz
             
         }
 
@@ -40,7 +40,7 @@ namespace pratik_1
         {
             label7.Text = "";
             label8.Text = "";
-            label9.Text = "";
+            label9.Text = "";//burada da temizle butonuna basıldığında label'ların içini boşaltıyoruz
 
         }
 
@@ -50,3 +50,4 @@ namespace pratik_1
         }
     }
 }
+
