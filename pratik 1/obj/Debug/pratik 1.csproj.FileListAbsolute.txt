@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\pratik 1\pratik 1\bin\Debug\pratik 1.exe.config
+C:\Users\User\source\repos\pratik 1\pratik 1\bin\Debug\pratik 1.exe
+C:\Users\User\source\repos\pratik 1\pratik 1\bin\Debug\pratik 1.pdb
+C:\Users\User\source\repos\pratik 1\pratik 1\obj\Debug\pratik 1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\pratik 1\pratik 1\obj\Debug\pratik_1.Form1.resources
+C:\Users\User\source\repos\pratik 1\pratik 1\obj\Debug\pratik_1.Properties.Resources.resources
+C:\Users\User\source\repos\pratik 1\pratik 1\obj\Debug\pratik 1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\pratik 1\pratik 1\obj\Debug\pratik 1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\pratik 1\pratik 1\obj\Debug\pratik 1.exe
+C:\Users\User\source\repos\pratik 1\pratik 1\obj\Debug\pratik 1.pdb
