@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z9RNg7+/igo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\hafta5\\hafta5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.5\\microsoft.extensions.primitives.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

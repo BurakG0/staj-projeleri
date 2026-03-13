@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\hafta5\bin\Debug\net10.0\hafta5.exe
+C:\Users\User\source\repos\hafta5\bin\Debug\net10.0\hafta5.deps.json
+C:\Users\User\source\repos\hafta5\bin\Debug\net10.0\hafta5.runtimeconfig.json
+C:\Users\User\source\repos\hafta5\bin\Debug\net10.0\hafta5.dll
+C:\Users\User\source\repos\hafta5\bin\Debug\net10.0\hafta5.pdb
+C:\Users\User\source\repos\hafta5\obj\Debug\net10.0\hafta5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\hafta5\obj\Debug\net10.0\hafta5.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\hafta5\obj\Debug\net10.0\hafta5.AssemblyInfo.cs
+C:\Users\User\source\repos\hafta5\obj\Debug\net10.0\hafta5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hafta5\obj\Debug\net10.0\hafta5.dll
+C:\Users\User\source\repos\hafta5\obj\Debug\net10.0\refint\hafta5.dll
+C:\Users\User\source\repos\hafta5\obj\Debug\net10.0\hafta5.pdb
+C:\Users\User\source\repos\hafta5\obj\Debug\net10.0\hafta5.genruntimeconfig.cache
+C:\Users\User\source\repos\hafta5\obj\Debug\net10.0\ref\hafta5.dll
+C:\Users\User\source\repos\hafta5\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\hafta5\obj\Debug\net10.0\hafta5.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\hafta5\obj\Debug\net10.0\hafta5.csproj.Up2Date
