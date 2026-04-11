@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\hafta9\hafta9\obj\Debug\net10.0\hafta9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\hafta9\hafta9\obj\Debug\net10.0\hafta9.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\hafta9\hafta9\obj\Debug\net10.0\hafta9.AssemblyInfo.cs
+C:\Users\Rog\source\repos\hafta9\hafta9\obj\Debug\net10.0\hafta9.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\hafta9\hafta9\bin\Debug\net10.0\hafta9.exe
+C:\Users\Rog\source\repos\hafta9\hafta9\bin\Debug\net10.0\hafta9.deps.json
+C:\Users\Rog\source\repos\hafta9\hafta9\bin\Debug\net10.0\hafta9.runtimeconfig.json
+C:\Users\Rog\source\repos\hafta9\hafta9\bin\Debug\net10.0\hafta9.dll
+C:\Users\Rog\source\repos\hafta9\hafta9\bin\Debug\net10.0\hafta9.pdb
+C:\Users\Rog\source\repos\hafta9\hafta9\obj\Debug\net10.0\hafta9.dll
+C:\Users\Rog\source\repos\hafta9\hafta9\obj\Debug\net10.0\refint\hafta9.dll
+C:\Users\Rog\source\repos\hafta9\hafta9\obj\Debug\net10.0\hafta9.pdb
+C:\Users\Rog\source\repos\hafta9\hafta9\obj\Debug\net10.0\hafta9.genruntimeconfig.cache
+C:\Users\Rog\source\repos\hafta9\hafta9\obj\Debug\net10.0\ref\hafta9.dll
